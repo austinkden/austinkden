@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @austinkden
-- 👀 I’m interested in aviation and public safety.
-- 🌱 I’m currently learning HTML, CSS, JS, and Python.
-- 📫 austin@aircraftmail.com  -  https://austinkden.github.io
+- 👀 I’m interested in aviation, public safety, and google.
+- 🌱 I’m currently comfortable coding HTML, CSS, JS, Java, and a little bit of Python.
 - 😄 Pronouns: he/him
