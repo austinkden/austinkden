@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @austinkden
-- 👀 I’m interested in aviation, public safety, and google.
+- 👀 I’m interested in commercial aviation, public safety, and google products/labs.
 - 🌱 I’m currently comfortable coding HTML, CSS, JS, Java, and a little bit of Python.
 - 😄 Pronouns: he/him
